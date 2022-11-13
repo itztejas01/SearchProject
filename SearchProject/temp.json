@@ -1,0 +1,57 @@
+[
+    {
+        "_id":1,
+        "companyName":"Levi's",
+        "company_id":1,
+        "primaryText":"We like where you’re going with this.",
+        "headline":"Relaxed Fit Men's Jeans",
+        "description":"",
+        "cta":"Shop Now",
+        "image":"https://drive.google.com/file/d/17huYmoSHdbgcNqfoO4yYYGIFf8X1243T/view?usp=sharing",
+        "companyUrl":"http://levis.com/"
+    },
+    {
+        "_id":2,
+        "companyName":"Puma",
+        "company_id":2,
+        "primaryText":"Puma",
+        "headline":"Salesforce for Small Business",
+        "description":"",
+        "cta":"Sign Up",
+        "image":"https://drive.google.com/file/d/17huYmoSHdbgcNqfoO4yYYGIFf8X1243T/view?usp=sharing",
+        "companyUrl":"http://puma.com/"
+    },
+    {
+        "_id":3,
+        "companyName":"Salesforce",
+        "company_id":3,
+        "primaryText":"The world’s leading CRM is ready to help you simplify the business part of your small business.",
+        "headline":"Salesforce for Small Business",
+        "description":"",
+        "cta":"Sign Up",
+        "image":"https://drive.google.com/file/d/17huYmoSHdbgcNqfoO4yYYGIFf8X1243T/view?usp=sharing",
+        "companyUrl":"http://levis.com/"
+    },
+    {
+        "_id":4,
+        "companyName":"Adidas",
+        "company_id":4,
+        "primaryText":"The world’s leading CRM is ready to help you simplify the business part of your small business.",
+        "headline":"Salesforce for Small Business",
+        "description":"",
+        "cta":"Sign Up",
+        "image":"https://drive.google.com/file/d/17huYmoSHdbgcNqfoO4yYYGIFf8X1243T/view?usp=sharing",
+        "companyUrl":"http://adidas.com/"
+    },
+    {
+        "_id":5,
+        "companyName":"Nike",
+        "company_id":5,
+        "primaryText":"The world’s leading CRM is ready to help you simplify the business part of your small business.",
+        "headline":"Salesforce for Small Business",
+        "description":"",
+        "cta":"Sign Up",
+        "image":"https://drive.google.com/file/d/17huYmoSHdbgcNqfoO4yYYGIFf8X1243T/view?usp=sharing",
+        "companyUrl":"http://nike.com/"
+    }
+]
